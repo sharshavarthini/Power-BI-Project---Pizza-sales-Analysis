@@ -48,6 +48,5 @@ Users can:
 ## 📷 Dashboard Preview
 <img width="1402" height="741" alt="Screenshot 2025-08-12 160821" src="https://github.com/user-attachments/assets/a146b71a-5475-4957-910c-5e912d29520d" />
 
-<img width="1784" height="816" alt="Screenshot 2025-08-12 160842" src="https://github.com/user-attachments/assets/a914dc28-8bb0-485b-bead-1ed891b7f184" />
 
 
